@@ -2,9 +2,8 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
 const Services = () => {
-
   return (
-    <div className="min-h-screen py-20">
+    <div className="py-10"> {/* Reduced padding */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <h2 className="text-3xl md:text-4xl font-bold mb-6">
           My <span className="text-primary">Services</span>
