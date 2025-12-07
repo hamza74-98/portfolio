@@ -1,6 +1,3 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-
 const Services = () => {
   return (
     <div className="py-10"> {/* Reduced padding */}
